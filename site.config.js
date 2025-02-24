@@ -10,12 +10,12 @@ const CONFIG = {
     github: "nowgnoesiohc",
     instagram: "",
   },
-  // projects: [
-  //   {
-  //     name: `morethan-log`,
-  //     href: "https://github.com/nowgnoesiohc/notion-blog",
-  //   },
-  // ],
+  projects: [
+    {
+      name: `morethan-log`,
+      href: "https://github.com/nowgnoesiohc/notion-blog",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "Put my heart into",
